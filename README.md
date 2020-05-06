@@ -1,3 +1,1 @@
-# image-identification
-# ReinforcementLearning
-# ReinforcementLearning
+# pytorch_sentdex
